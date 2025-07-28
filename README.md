@@ -7,3 +7,4 @@ This project is used by students in the Full-Stack Web Development program at Di
 
 This page is hosted on GitHub Pages. To view the page, click here:
 https://patrickfrankaiu.github.io/Inventory-Manager/
+ 
