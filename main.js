@@ -105,7 +105,7 @@ function addShipment() {
     if (product) {
         product.quantity += quantityInput;
     } else {
-        category.products.push({ product: productInput, quantity, quantityInput });
+        category.products.push({ product: productInput, quantity: quantityInput });
     }
 
     let shipCategory = shipment.find(cat => cat.category === categoryInput);
